@@ -24,7 +24,7 @@ public class Condicoes {
         }
 
         if (incluidoNoPlano == true && tipoPlano.equals("plus")){
-            System.out.println("Filme liberado");
+            System.out.println("Filme liberado para ser assistido");
         } else {
             System.out.println("Deve realizar o pagamento da locação");
         }
