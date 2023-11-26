@@ -4,7 +4,7 @@ public class View {
 
             int datanascimento = 1995;
 
-            System.out.println("*********************");
+            System.out.println("*********************sssss");
             System.out.println("TESTE");
             System.out.println(datanascimento);
         }
