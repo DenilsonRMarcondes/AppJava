@@ -13,7 +13,7 @@ public class Leitura {
         System.out.println("Escreva uma avaliação para o filme mencionado: ");
         double avaliacao = leitura.nextDouble();
 
-        System.out.println("--------------------------------");
+        System.out.println("-------------------------------------------------");
         System.out.println("");
         System.out.println("Confira os resultados da sua escolha: ");
         System.out.println("");
