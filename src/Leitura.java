@@ -10,7 +10,7 @@ public class Leitura {
         String filme = leitura.nextLine();
         System.out.println("Qual ano de lançamento do filme? ");
         int anoDeLancamento = leitura.nextInt();
-        System.out.println("Escreva uma avaliação para o filme mencionado: ");
+        System.out.println("Escreva uma avaliação para o filme mencionado no codigo: ");
         double avaliacao = leitura.nextDouble();
 
         System.out.println("-------------------------------------------------");
