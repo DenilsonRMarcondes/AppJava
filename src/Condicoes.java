@@ -28,7 +28,5 @@ public class Condicoes {
         } else {
             System.out.println("Deve realizar o pagamento da locação");
         }
-
-
     }
 }
