@@ -9,7 +9,7 @@ public class Main {
         //abaixo tem outro exemplo de variavel desenvolvida em Java
         System.out.println(anoDeLancamento);
         boolean incluidoNoPlano = true;
-        //foi a nota que cada pessoa escolheu para o filme de sua preferencia em nosso sistema de cadastro que foi desenvolvido em java
+        //foi a nota que cada pessoa escolheu para o filme de sua preferencia em nosso sistema de cadastro que foi desenvolvido em java para testar um backend
         double botaDoFilme = 8.1;
         //System.out.println(botaDoFilme);
         System.out.println(1+2);
