@@ -8,6 +8,9 @@ public class Condicoes {
         System.out.println("Continuar aqui o codigo em java para estudar mais sobre a linguagem de programação java");
         System.out.println("");
         System.out.println("");
+        System.out.println("");
+        System.out.println("");
+
 
         int anoDeLancamento = 2022;
         boolean incluidoNoPlano = true;
