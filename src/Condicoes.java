@@ -22,7 +22,7 @@ public class Condicoes {
 
         if (anoDeLancamento > 2022){
             System.out.println("Lançamento que os clientes estão gostando");
-        }else{
+        } else {
             System.out.println("Filme antigo que vale a pena assistir nos dias de hoje");
         }
 
@@ -31,5 +31,6 @@ public class Condicoes {
         } else {
             System.out.println("Deve realizar o pagamento da locação");
         }
+
     }
 }
