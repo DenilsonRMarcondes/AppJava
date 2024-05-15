@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Loop {
     public static void main(String[] args) {
-        System.out.println("teste de leitura");
+        System.out.println("teste de leitura da classe em java");
         Scanner leitura = new Scanner(System.in);
         double mediaAvaliacao = 0;
         double nota = 0;
