@@ -16,6 +16,8 @@ public class WhileJava {
                 totalNotas++;
             }
 
+
+
         }
 
         System.out.println("Média de avaliações: " + mediaAvaliacao / totalNotas);
