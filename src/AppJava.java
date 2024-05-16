@@ -8,6 +8,7 @@ public class AppJava {
         double numero = 2;
         double numero2 = 4;
         int number1 = 2;
+        int number2 = 5;
         Scanner leitura = new Scanner(System.in);
         System.out.println("-----------");
 
@@ -22,6 +23,13 @@ public class AppJava {
             while (y < 3) {
                 System.out.println(number1);
                 i++;
+
+ //          aqui vai o codigo de while na AppJava com a letra x diferenciando das outras condições while
+                int x = 1;
+                while (x < 3) {
+                    System.out.println(number2);
+                    i++;
+                }
 
             }
         }
