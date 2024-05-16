@@ -24,7 +24,7 @@ public class AppJava {
                 System.out.println(number1);
                 i++;
 
- //          aqui vai o codigo de while na AppJava com a letra x diferenciando das outras condições while
+ //          aqui vai o codigo de while na AppJava com a letra x diferenciando das outras condições whilee
                 int x = 1;
                 while (x < 3) {
                     System.out.println(number2);
