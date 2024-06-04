@@ -52,6 +52,17 @@ public class Main {
         //Classificação mostra quantas estrelas vai imprimir
         System.out.println(classificacao);
 
+        if (ddd){
+            System.out.println();
+        }
+
+        int x = 10;
+        if (x > 5) {
+            System.out.println("x is greater than 5");
+            System.out.println();
+
+        }
+
 
 
     }

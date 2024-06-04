@@ -17,6 +17,7 @@ public class Leitura {
         System.out.println("");
         System.out.println("Confira os resultados da sua escolha: ");
         System.out.println("");
+        System.out.println();
 
         System.out.println(filme);
         System.out.println(anoDeLancamento);

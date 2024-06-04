@@ -31,6 +31,10 @@ public class AppJava {
                     i++;
                 }
 
+                System.out.println("Loop finalizado");
+
+
+
                 }
 
             }

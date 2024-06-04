@@ -32,5 +32,6 @@ public class Condicoes {
             System.out.println("Deve realizar o pagamento da locação");
         }
 
+
     }
 }
