@@ -1,12 +1,17 @@
+import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Leitura {
     public static void main(String[] args) {
         System.out.println("teste de leitura");
+        System.out.println("ccc");
+
+
 
         Scanner leitura = new Scanner(System.in);
 
         System.out.println("Digite o nome de um filme para pesquisar: ");
+
         String filme = leitura.nextLine();
         System.out.println("Qual ano de lançamento do filme? ");
         int anoDeLancamento = leitura.nextInt();
@@ -22,6 +27,7 @@ public class Leitura {
         System.out.println(filme);
         System.out.println(anoDeLancamento);
         System.out.println(avaliacao);
+        
 
     }
 }
