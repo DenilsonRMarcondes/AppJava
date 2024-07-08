@@ -27,6 +27,7 @@ public class Loop {
         // Boolean variable for true/false
         boolean isEmployed = true;
 
+
         // String variable for text
         String name = "John Doe";
 
