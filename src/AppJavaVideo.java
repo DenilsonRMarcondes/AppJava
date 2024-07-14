@@ -8,7 +8,7 @@ public class AppJavaVideo {
                 System.out.println(arg);
             }
         } else {
-            System.out.println("Sem argumentosssss.");
+            System.out.println("Sem argumentossssssss teste de uma aplicação em java e usando o commit para fazer update.");
 
         }
 
