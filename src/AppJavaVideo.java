@@ -9,6 +9,7 @@ public class AppJavaVideo {
             }
         } else {
             System.out.println("Sem argumentossssssss teste de uma aplicação em java e usando o commit para fazer update.");
+            System.out.println("");
 
         }
 
