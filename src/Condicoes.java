@@ -5,7 +5,7 @@ public class Condicoes {
         System.out.println("");
         System.out.println("Aqui começa a linhagg qued vai ser feitas as condições");
         System.out.println("");
-        System.out.println("Continuar aqui o codigo em java para estudar mais sobre a linguagem de programação java");
+        System.out.println("Continuar aqui o codigo em java para estudar mais sobre a linguagem de programação javas");
         System.out.println("");
         System.out.println("");
         System.out.println("");
