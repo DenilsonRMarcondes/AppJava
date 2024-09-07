@@ -10,7 +10,7 @@ public class Loop {
 
         double nota = 0;
         for (int i = 0; i < 3; i++) {
-            System.out.println("Escreva uma avaliação para o filme mencionado: ");
+            System.out.println("Escreva uma avaliação para o filme mencionadoooo: ");
             nota = leitura.nextDouble();
             mediaAvaliacao += nota;
         }
