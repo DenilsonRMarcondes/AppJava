@@ -4,7 +4,7 @@ public class AppJava {
     public static void main(String[] args) {
         System.out.println("******* Aqui vai ser desenvolvido um sistema em Java *******\n");
 
-//        variaveis para o sistema
+//        variaveis para o sistemaaaa
         double numero = 2;
         double numero2 = 4;
         int number1 = 2;
