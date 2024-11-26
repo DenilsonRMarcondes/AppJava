@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class AppJava {
     public static void main(String[] args) {
-        System.out.println("******* Aqui vai ser desenvolvido um sistema em Java *******\n");
+        System.out.println("******* Aqui vai ser desenvolvido um sistema em Javaaa *******\n");
 
 //        variaveis para o sistemaaaa
         double numero = 2;
