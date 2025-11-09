@@ -29,6 +29,8 @@ public class Leitura {
         System.out.println(avaliacao);
 
         //Commit da nova branch
+
+        //Fiz o teste do PULL REQUEST E DEU CERTO, DEPOIS SUBIR ESSA ALTERAÇÃO PARA A MAIN
         
 
     }
