@@ -27,6 +27,8 @@ public class Leitura {
         System.out.println(filme);
         System.out.println(anoDeLancamento);
         System.out.println(avaliacao);
+
+        //Commit da nova branch
         
 
     }
