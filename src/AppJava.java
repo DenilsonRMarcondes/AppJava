@@ -33,6 +33,8 @@ public class AppJava {
 
                 System.out.println("Loop finalizado");
 
+// Testando para fazer um commit no repositorio no dia 09/11/2025
+
 
 
                 }
